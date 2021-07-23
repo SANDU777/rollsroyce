@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GC2UCQPU5QMTXNMZ7AADIUY74ZX6AMRK47NESFBAKO4MLALVMKC2F34P"
+"GDYOEFDUUW5O5CG62SSPPW4NHTCCKOKPLBXV7HPYUNNSHXPQ6SUFRSMB"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="angryshiba"
-ORG_URL="https://www.angryshiba.org"
-ORG_DESCRIPTION=""
-ORG_TWITTER="@angryshiba"
-ORG_LOGO="https://i.ibb.co/cCKyP73/images-1.png"
-ORG_OFFICIAL_EMAIL="angryshiba@gmail.com"
+ORG_NAME="rollsroyce"
+ORG_URL="https://www.rollsroyce.org"
+ORG_DESCRIPTION="Rolls-Royce Motor Cars is an everlasting expression of the exceptional. From the world's pinnacle motor car Phantom to the bold"
+ORG_TWITTER="@rollsroyce"
+ORG_LOGO="https://i.ibb.co/ZNCfTZz/3.png"
+ORG_OFFICIAL_EMAIL="rollsroyce@gmail.com"
 
 
 [[CURRENCIES]]
-code="AngryShiba"
-issuer="GC2UCQPU5QMTXNMZ7AADIUY74ZX6AMRK47NESFBAKO4MLALVMKC2F34P"
+code="RollsRoyce"
+issuer="GDYOEFDUUW5O5CG62SSPPW4NHTCCKOKPLBXV7HPYUNNSHXPQ6SUFRSMB"
 anchor_asset="false"
-name="Angry Shiba"
-desc="LEASH, BONE — ShibaSwap — Innovative Reward System — The Shiba Incubator — And more. 585k+ Community Members and Growing Fast!."
-conditions="From its inception, Shiba Inu has done things differently. Starting with a supply of 1 quadrillion, our founder, Ryoshi, locked 50% in Uniswap, then “burned” the other half to Ethereum co-founder Vitalik Buterin for safekeeping."
-image="https://i.ibb.co/cCKyP73/images-1.png"
+name="RollsRoyce"
+desc="Rolls-Royce Motor Cars is an everlasting expression of the exceptional. From the world's pinnacle motor car Phantom to the bold"
+conditions=""
+image="https://i.ibb.co/ZNCfTZz/3.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#AngryShiba was issued using the open and inclusive Stellar blockchain network.
+#RollsRoyce was issued using the open and inclusive Stellar blockchain network.
